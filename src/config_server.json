@@ -1,0 +1,9 @@
+{
+    "learning_rate":0.001,
+    "batch_size":32,
+    "num_classes":10,
+    "epochs":1,
+    "num_clients":1,
+    "round":5,
+    "num_client_layer":2 
+}
